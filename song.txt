@@ -4,10 +4,5 @@ six seven
 eith nine
 
 ten eleven
-<<<<<<< HEAD
-twelv
+twelv threeten
 -----------
-=======
-
-twelv
->>>>>>> fd76109949c67f8f05b18f8a2f772b0446d7a4e2
